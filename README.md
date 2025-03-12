@@ -22,5 +22,5 @@ My research so far has centered around building computational tools and analyzin
 
 By leveraging these experiences, I am now exploring the brain tumor immune microenvironment at single cell resolution. I'm confident that elucidating this complex biological system using a data-driven approach can help us devise better therapies for patients fighting brain tumors. 
 
-👨🏽‍💻 Beyond biomedical research, I'm passionate about applications of software engineering for social good and supporting digital interventions for community health.
+Beyond biomedical research, I'm passionate about applications of software engineering for social good and supporting digital interventions for community health.
 
