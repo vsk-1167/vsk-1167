@@ -20,7 +20,7 @@ My research so far has centered around building computational tools and analyzin
 - 🎓 In college, I built software to elucidate the transcriptome of a non-model microbe with potential climate change applications.
 - 🏭 In industry, I investigated the human transcriptome to support multiple drug discovery programs for indications along the gut-brain axis. 
 
-➡️ By leveraging these experiences, I am now exploring the brain tumor immune microenvironment at single cell resolution. I'm confident that elucidating this complex biological system using a data-driven approach can help us devise better therapies for patients fighting brain tumors. 
+➡️ By leveraging these experiences, I am now exploring the brain tumor immune microenvironment at single cell resolution. I'm confident that a data-driven elucidation of this biological system can help us devise better therapies for patients fighting brain tumors. 
 
-Beyond biomedical research, I'm passionate about applications of software engineering for social good and supporting digital interventions for community health.
+👨🏾‍💻 Beyond biomedical research, I'm passionate about applications of software engineering for social good and supporting digital interventions for community health.
 
