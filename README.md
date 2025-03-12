@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💡 As an aspiring physician-scientist, I am motivated by the nexus of machine learning, genomics, and immunology. 
+💡 As an aspiring physician-scientist, I am motivated by the nexus of machine learning, genomics, and immunology. My aim is to translate advances in these fields towards understanding and treating cancer.
 
 My research so far has centered around building computational tools and analyzing genomic data to decode biological phenomena. 
 - 🎓 In college, I built software to elucidate the transcriptome of a non-model microbe with potential climate change applications.
@@ -22,5 +22,5 @@ My research so far has centered around building computational tools and analyzin
 
 By leveraging these experiences, I am now exploring the brain tumor immune microenvironment at single cell resolution. I'm confident that elucidating this complex biological system using a data-driven approach can help us devise better therapies for patients fighting brain tumors. 
 
-Beyond biomedical research, I'm passionate about applications of software engineering for social good, and supporting digital interventions for community health.
+👨🏽‍💻 Beyond biomedical research, I'm passionate about applications of software engineering for social good and supporting digital interventions for community health.
 
